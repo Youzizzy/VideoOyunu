@@ -4,7 +4,7 @@
     "ageRating": 16,
     "genre": "Shooter",
     "price": 20,
-    "stock": 6
+    "stock": 5
   },
   {
     "name": "P",
@@ -18,7 +18,7 @@
     "ageRating": 7,
     "genre": "Sandbox",
     "price": 30,
-    "stock": 7
+    "stock": 6
   },
   {
     "name": "GTA V",
@@ -46,7 +46,7 @@
     "ageRating": 16,
     "genre": "RPG",
     "price": 70,
-    "stock": 7
+    "stock": 6
   },
   {
     "name": "Animal Crossing",
