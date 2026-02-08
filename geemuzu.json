@@ -1,23 +1,58 @@
 [
   {
-    "name": "Aaa",
-    "ageRating": 1,
-    "genre": "1",
-    "price": 2,
+    "name": "Apex Legends",
+    "ageRating": 16,
+    "genre": "Shooter",
+    "price": 20,
     "stock": 6
   },
   {
     "name": "P",
     "ageRating": 2,
-    "genre": "1",
+    "genre": "a",
     "price": 3,
-    "stock": 3
+    "stock": 2
   },
   {
-    "name": "lllelililelila",
-    "ageRating": 67,
-    "genre": "fuggggggggg\u011fuggg",
-    "price": 25,
+    "name": "Minecraft",
+    "ageRating": 7,
+    "genre": "Sandbox",
+    "price": 30,
+    "stock": 7
+  },
+  {
+    "name": "GTA V",
+    "ageRating": 18,
+    "genre": "Action",
+    "price": 30,
+    "stock": 5
+  },
+  {
+    "name": "FIFA 24",
+    "ageRating": 3,
+    "genre": "Sports",
+    "price": 70,
+    "stock": 1
+  },
+  {
+    "name": "Mario Kart",
+    "ageRating": 3,
+    "genre": "Racing",
+    "price": 60,
     "stock": 9
+  },
+  {
+    "name": "Elden Ring",
+    "ageRating": 16,
+    "genre": "RPG",
+    "price": 70,
+    "stock": 7
+  },
+  {
+    "name": "Animal Crossing",
+    "ageRating": 3,
+    "genre": "Simulation",
+    "price": 60,
+    "stock": 3
   }
 ]
