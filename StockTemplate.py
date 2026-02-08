@@ -24,7 +24,7 @@ class Stock:
 
     def customer_add_to_cart(self):
         if not self.gamez:
-            print("There ain't nothin' you can buy, dawg")
+            print("There isn't anything you can buy.")
             return
         name = input("What's the name of the Game you want to add to your cart?\n")
         for gaem in self.gamez:
@@ -53,7 +53,7 @@ class Stock:
         time.sleep(2)
 
     def customer_purchase(self):
-        print("Thank you for giving us money.")
+        print("Item/s bought succesfully.")
         time.sleep(2)
         for cartItem in self.cart:
             for gaem in self.gamez:
@@ -77,7 +77,7 @@ class Stock:
         # print("Guest starring: Big Fugg - Ooga Booga")
 
     def employee_update_gaem(self):
-        name = input("What's the Name of the (new)Game?")
+        name = input("What's the Name of the Game?")
         for gaem in self.gamez:
             if gaem["name"] == name:
                 gaem["ageRating"] = int(input("Enter ESRB Age Rating: "))
