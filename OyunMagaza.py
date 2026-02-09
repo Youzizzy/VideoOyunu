@@ -121,4 +121,4 @@ while True:
 
 # sobe
 # fuggler big fugg dogah boogah 
-# adidas çin yeleği çin ve lezsbiyen
+# adidas çin yeleği çin ve le
